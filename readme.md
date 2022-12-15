@@ -1,3 +1,5 @@
+Install dependencies using ```npm i```
+
 To run the project, please use ```node app.js```
 
 To test the project, please use ```npm run test```
